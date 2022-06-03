@@ -1,0 +1,7 @@
+{
+  "extends": "./.nuxt/tsconfig.json",
+  "strict": true,
+  "types": [
+    "@pinia/nuxt"
+  ]
+}
