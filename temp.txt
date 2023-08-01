@@ -1,0 +1,97 @@
+{
+  "editor.fontSize": 12,
+  "window.commandCenter": true,
+  "editor.fontFamily": "MonoLisa, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "window.zoomLevel": -1,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.validate": [
+    "vue",
+    "html",
+    "javascript",
+    "typescriptvue",
+    "typescript"
+  ],
+  "eslint.options": {
+    "extensions": [".html", ".js", ".vue", ".jsx", ".ts"]
+  },
+  "editor.linkedEditing": true,
+  "editor.guides.bracketPairs": true,
+  "workbench.layoutControl.enabled": false,
+  "editor.minimap.showSlider": "always",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "eslint.codeActionsOnSave.rules": null,
+  "html.format.wrapAttributes": "force-expand-multiline",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "none",
+  "editor.tabSize": 2,
+  "redhat.telemetry.enabled": false,
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.accessibilitySupport": "off",
+  "volar.splitEditors.layout.left": ["script", "scriptSetup", "styles"],
+  "volar.splitEditors.layout.right": ["template", "customBlocks"],
+  "volar.vueserver.json.customBlockSchemaUrls": {},
+  "console-ninja.toolsToEnableSupportAutomaticallyFor": {
+    "live-server": true,
+    "live-preview": true
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.tsserver.pluginPaths": ["typescript-plugin-css-modules"],
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vitest.enable": true,
+  "wallaby.codeLensFeature.runTest": true,
+  "wallaby.suppressExpirationNotifications": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.env.windows": {},
+  "console-ninja.featureSet": "Pro",
+  "console-ninja.captureFunctions": true,
+  "vue.updateImportsOnFileMove.enabled": true,
+  "workbench.colorTheme": "Default Dark+",
+  "vue.autoInsert.dotValue": true,
+  "vue.complete.casing.props": "autoCamel",
+  "vue.inlayHints.inlineHandlerLeading": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "git.defaultBranchName": "master",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  },
+  "security.allowedUNCHosts": ["wsl.localhost"],
+  "git.openRepositoryInParentFolders": "never",
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.codeLens.scopes": ["document", "containers"],
+  "gitlens.heatmap.locations": ["overview", "gutter", "line"],
+  "editor.unicodeHighlight.allowedLocales": {
+    "ru": true
+  },
+  "explorer.confirmDelete": false,
+  "aws.telemetry": false,
+  "terminal.integrated.env.linux": {},
+}
